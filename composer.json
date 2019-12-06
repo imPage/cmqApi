@@ -1,11 +1,11 @@
 {
-    "name": "tencentyun/cmq-php-sdk",
+    "name": "imPage/cmqApi",
     "description": "tencent cloud cmq php http client sdk",
     "type": "library",
     "authors": [
         {
-            "name": "yorkxyzhang",
-            "email": "yorkxyzhang@tencent.com"
+            "name": "imPage",
+            "email": "364926728@qq.com"
         }
     ],
     "require": {}
