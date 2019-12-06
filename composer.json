@@ -1,5 +1,5 @@
 {
-    "name": "imPage/cmqApi",
+    "name": "impage/cmq",
     "description": "tencent cloud cmq php http client sdk",
     "type": "library",
     "authors": [
